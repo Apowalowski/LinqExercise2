@@ -1,0 +1,13 @@
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.exe
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.deps.json
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.runtimeconfig.json
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.runtimeconfig.dev.json
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.dll
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\bin\Debug\netcoreapp3.1\LinqExercise2.pdb
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.csprojAssemblyReference.cache
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.AssemblyInfoInputs.cache
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.AssemblyInfo.cs
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.csproj.CoreCompileInputs.cache
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.dll
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.pdb
+C:\Users\apowa\repos\LinqExercise2\LinqExercise2\obj\Debug\netcoreapp3.1\LinqExercise2.genruntimeconfig.cache
